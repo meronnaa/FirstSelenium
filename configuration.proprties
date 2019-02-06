@@ -1,0 +1,11 @@
+
+url=http://secure.smartbearsoftware.com/samples/TestComplete12/WebOrders/Login.aspx
+
+browser= chrome
+username=Tester;
+password=test;
+
+
+//url=second=====it just printes it the second url
+//url=     ===printes empty
+//
